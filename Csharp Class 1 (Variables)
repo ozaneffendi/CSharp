@@ -1,0 +1,22 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CSharp_Class_1__Drawing_a_shape_
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //Order matters
+            Console.WriteLine("     /|");
+            Console.WriteLine("    / |");
+            Console.WriteLine("   /  |");
+            Console.WriteLine("  /   |");
+            Console.WriteLine(" /    |");
+            Console.WriteLine("/_____|");
+        }
+    }
+}
